@@ -1,1 +1,17 @@
-/* your code */
+table{
+/* 	border:1px solid gray; */
+/* 	border-radius:10px; */
+	width:100%;
+	border-collapse:collapse;
+}
+tr:nth-child(even) {
+  background-color: lightgray;
+}
+thead tr th{
+	background-color:navy;
+	color:white;
+}
+
+
+
+
